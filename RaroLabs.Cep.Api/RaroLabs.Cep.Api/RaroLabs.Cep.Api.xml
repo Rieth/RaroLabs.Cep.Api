@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RaroLabs.Cep.Api</name>
+    </assembly>
+    <members>
+        <member name="T:RaroLabs.Cep.Api.Controllers.EnderecoController">
+            <summary>
+            Serviço para busca de endereço
+            </summary>
+        </member>
+        <member name="M:RaroLabs.Cep.Api.Controllers.EnderecoController.BuscarEndereco(System.String)">
+            <summary>
+            Realiza a busca de endereço a partir do CEP informado.
+            </summary>
+            <param name="cep">CEP a ser buscado (apenas números)</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
